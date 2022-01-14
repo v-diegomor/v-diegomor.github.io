@@ -46,6 +46,7 @@ span{
     font-size: 2em;
     font-weight: bold;
     text-align: center;
+    margin: 0;
 }
 .text-links-1{
     font-size: 3em;
@@ -75,4 +76,11 @@ span{
 
 .text-person{
     text-align: center;
+}
+
+.users{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
 }
