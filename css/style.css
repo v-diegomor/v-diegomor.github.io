@@ -53,8 +53,8 @@ span{
     font-weight: bold;
     text-align: center;
 
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .boxes{
@@ -84,3 +84,179 @@ span{
     margin-right: auto;
     margin-top: 5em;
 }
+
+.space{
+    padding-bottom: 5em;
+}
+
+/*------------------VSAC-------------------------*/ 
+.boxes-1{
+    background-color: #ffbd43;
+    border: solid 3px #ffbd43;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+    color: black !important;
+    text-decoration: none;
+}
+
+.boxes-1:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
+
+/*------------------VSAC-------------------------*/ 
+.boxes-2{
+    background-color: #b4b4b4;
+    border: solid 3px #b4b4b4;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+}
+
+.boxes-2:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+.vsac{
+    color: white;
+    text-decoration: none;
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
+
+
+/*------------------VSAC-------------------------*/ 
+.boxes-3{
+    background-color: #cb2e63;
+    border: solid 3px #cb2e63;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+}
+
+.boxes-3:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+.vsac{
+    color: white;
+    text-decoration: none;
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
+
+.boxes-4{
+    background-color: #484898;
+    border: solid 3px #484898;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+}
+
+.boxes-4:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+.vsac{
+    color: white;
+    text-decoration: none;
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
+
+/*------------------VSAC-------------------------*/ 
+.boxes-5{
+    background-color: #208582;
+    border: solid 3px #208582;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+}
+
+.boxes-5:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+.vsac{
+    color: white;
+    text-decoration: none;
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
+
+/*------------------VSAC-------------------------*/ 
+.boxes-6{
+    background-color: #aeb5db;
+    border: solid 3px #aeb5db;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em; 
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: all .2s ease-in-out;
+}
+
+.boxes-6:hover{
+    background-color: #008AD7;
+    border: solid 3px #008AD7;
+    transform: scale(1.1);
+}
+.vsac{
+    color: white;
+    text-decoration: none;
+}
+
+.vsac:hover{
+    color: black;
+}
+/*------------------End-------------------------*/ 
