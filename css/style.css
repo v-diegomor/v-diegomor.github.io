@@ -78,6 +78,10 @@ span{
     text-align: center;
 }
 
+p{
+    margin: 0 !important;
+}
+
 .users{
     display: block;
     margin-left: auto;
